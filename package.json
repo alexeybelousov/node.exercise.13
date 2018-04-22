@@ -1,0 +1,24 @@
+{
+  "name": "exercise.13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeybelousov/node.exercise.13.git"
+  },
+  "author": "Alexey Belousov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeybelousov/node.exercise.13/issues"
+  },
+  "homepage": "https://github.com/alexeybelousov/node.exercise.13#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.7"
+  }
+}
